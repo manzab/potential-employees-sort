@@ -9,6 +9,3 @@
 
 - Run ``php Employer.php`` on terminal
 
-### To-do 
-
-- [ ] unit test
